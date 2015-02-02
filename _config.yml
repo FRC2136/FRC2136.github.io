@@ -1,0 +1,13 @@
+# Site settings
+title: FRC 2136 Team Impossible Mission Force
+email: shaun@intellectual-tech.com
+description: > # this means to ignore newlines until "baseurl:"
+  First Robotics Competition (FRC) Team 2136 "Impossible Mission Force" is a team of teenagers
+  building a robot for the upcoming recylcing FRC challenge.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://frc2136.github.io" # the base hostname & protocol for your site
+twitter_username: IMFJobTraining
+github_username:  FRC2136
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FRC 2136 Team Impossible Mission Force</title>
+    <description>First Robotics Competition (FRC) Team 2136 &quot;Impossible Mission Force&quot; is a team of teenagers building a robot for the upcoming recylcing FRC challenge.
+</description>
+    <link>http://frc2136.github.io/</link>
+    <atom:link href="http://frc2136.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 01 Feb 2015 22:43:10 -0600</pubDate>
+    <lastBuildDate>Sun, 01 Feb 2015 22:43:10 -0600</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Welcome to the FRC Team 2136 Website!</title>
+        <description>&lt;p&gt;Welcome all students and participants to the FRC Team 2136 website.&lt;/p&gt;
+
+&lt;p&gt;This site is primarily meant to be a place to collect and disseminate
+information to the team and to have a historical record.&lt;/p&gt;
+
+&lt;h1 id=&quot;google-drive&quot;&gt;Google Drive&lt;/h1&gt;
+
+&lt;h1 id=&quot;github-organizationorg&quot;&gt;&lt;a href=&quot;https://github.com/FRC2136/&quot;&gt;GitHub Organization&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;The GitHub Organization is a collection of projects for this team, for now this
+just includes the repository for the 2015 team project.&lt;/p&gt;
+
+&lt;h1 id=&quot;github-projectproject&quot;&gt;&lt;a href=&quot;https://github.com/FRC2136/2015-FRC/&quot;&gt;Github Project&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;The github project contains project code and any supporting documentation used to develop the project.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 01 Feb 2015 15:18:35 -0600</pubDate>
+        <link>http://frc2136.github.io/welcome/2015/02/01/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://frc2136.github.io/welcome/2015/02/01/welcome-to-jekyll.html</guid>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+  </channel>
+</rss>
